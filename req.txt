@@ -8,3 +8,4 @@ rapidfuzz
 streamlit
 plotly
 git+https://github.com/openai/whisper.git
+sklearn

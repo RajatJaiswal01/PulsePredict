@@ -1,8 +1,0 @@
-streamlit
-whisper
-boto3
-pandas
-scikit-learn
-plotly
-joblib
-torch

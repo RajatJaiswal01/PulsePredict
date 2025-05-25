@@ -160,24 +160,31 @@ The project includes two types of testing:
 
 ## Screenshots
 
-<p float="left">
-  <img src="images/img1.jpg" width="200" />
-  <img src="images/img2.jpg" width="200" />
-  <img src="images/img3.jpg" width="200" />
-</p>
+![Image5](https://github.com/user-attachments/assets/fca2aa89-6288-4858-a0e5-8a93f1c3ebbb)
 
-<p float="left">
-  <img src="images/img4.jpg" width="200" />
-  <img src="images/img5.jpg" width="200" />
-  <img src="images/img6.jpg" width="200" />
-</p>
+![Image6](https://github.com/user-attachments/assets/b47b72c3-1ab7-4bf7-8da0-144840daf3d2)
 
-<p float="left">
-  <img src="images/img7.jpg" width="200" />
-  <img src="images/img8.jpg" width="200" />
-  <img src="images/img9.jpg" width="200" />
-</p>
+![Image7](https://github.com/user-attachments/assets/f53ca72a-2179-433f-b83c-f921a8245ee6)
 
+![Image8](https://github.com/user-attachments/assets/ada29165-ceb2-4574-9966-07cefcacd08f)
+
+![Image9](https://github.com/user-attachments/assets/24c6f39d-6487-4dcb-b89c-8bb35a441707)
+
+![Image10](https://github.com/user-attachments/assets/12b0c68c-c9a8-4279-b3bd-8d81a720ddba)
+
+![Image11](https://github.com/user-attachments/assets/ac67cfb8-b0c8-4c28-ba7a-159ec6bd4567)
+
+![Image12](https://github.com/user-attachments/assets/e37e1d1b-82c5-4073-af05-6d47077e4ca9)
+
+![Image13](https://github.com/user-attachments/assets/0a332d33-5cba-4c55-b170-8d575f2bbd31)
+
+![Image14](https://github.com/user-attachments/assets/dbd4b2c0-52e9-4af4-92c8-6119011dabf3)
+
+![Image15](https://github.com/user-attachments/assets/1330ed26-8690-41d4-8552-8a274ee44dbf)
+
+![Image16](https://github.com/user-attachments/assets/99cbddd7-3639-4c82-b91e-aa099b7e20da)
+
+![Image17](https://github.com/user-attachments/assets/b032988b-cff4-4090-9e1b-1472bf208b09)
 
 ## Future Improvements
 - Incorporate time-aware features such as event sequences and timestamps.  

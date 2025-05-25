@@ -158,6 +158,25 @@ The project includes two types of testing:
 
 ## Screenshots
 
+<p float="left">
+  <img src="images/img1.jpg" width="200" />
+  <img src="images/img2.jpg" width="200" />
+  <img src="images/img3.jpg" width="200" />
+</p>
+
+<p float="left">
+  <img src="images/img4.jpg" width="200" />
+  <img src="images/img5.jpg" width="200" />
+  <img src="images/img6.jpg" width="200" />
+</p>
+
+<p float="left">
+  <img src="images/img7.jpg" width="200" />
+  <img src="images/img8.jpg" width="200" />
+  <img src="images/img9.jpg" width="200" />
+</p>
+
+
 ## Future Improvements
 - Incorporate time-aware features such as event sequences and timestamps.  
 - Use larger Whisper models to improve transcription accuracy.  

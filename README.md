@@ -78,6 +78,8 @@ A breakdown of the core scripts used in this project:
 
 ## Demo Video
 
+**Video Link** - [PulsePredict Video](https://drive.google.com/file/d/1bAoyQM2SPmOdzFpTUTmJmiLh9zBTr88n/view?usp=drive_link)
+
 ## Tech Stack
 
 

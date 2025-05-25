@@ -90,7 +90,7 @@ A breakdown of the core scripts used in this project:
 |  ML Model            | Scikit-learn (Random Forest)      |
 |  Backend             | Python                            |
 |  Front End            | Streamlit                        |
-|  Deployment           |                                  |
+|  Deployment           |  Streamlit                                |
 
 
 ##  Testing

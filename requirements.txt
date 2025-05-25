@@ -7,3 +7,4 @@ plotly
 joblib
 torch
 rapidfuzz
+tqdm

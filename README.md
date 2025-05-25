@@ -4,7 +4,7 @@
 
 Adverse medical events often arise from miscommunication or overlooked information during patient-physician interactions. Identifying these events proactively could significantly improve patient safety and healthcare outcomes. However, there is currently **no scalable, automated method** to analyze spoken medical conversations and flag potential adverse outcomes.
 
-**Deployed Link** -
+**Deployed Link** - [PulsePredict App](https://pulsepredict01.streamlit.app/)
 
 ##  Objective
 
